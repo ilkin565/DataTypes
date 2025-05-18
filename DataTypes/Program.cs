@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace DataTypes
 {
@@ -19,9 +24,9 @@ namespace DataTypes
 				("Int64", typeof(long), sizeof(long), $"{long.MinValue}...{long.MaxValue}"),
 				("UInt64", typeof(ulong), sizeof(ulong), $"{ulong.MinValue}...{ulong.MaxValue}"),
 				("Float", typeof(float), sizeof(float), $"{float.MinValue}...{float.MaxValue}"),
-                ("Double", typeof(double), sizeof(double), $"{double.MinValue}...{double.MaxValue}"),
-                ("Decimal", typeof(decimal), sizeof(decimal), $"{decimal.MinValue}...{decimal.MaxValue}"),
-                ("Char", typeof(char), sizeof(char), $"'{char.MinValue}'...'{char.MaxValue}'")
+				("Double", typeof(double), sizeof(double), $"{double.MinValue}...{double.MaxValue}"),
+				("Decimal", typeof(decimal), sizeof(decimal), $"{decimal.MinValue}...{decimal.MaxValue}"),
+				("Char", typeof(char), sizeof(char), $"'{char.MinValue}'...'{char.MaxValue}'")
 			};
 
 			foreach (var (TypeName, WrapperType, MemorySize, ValueRange) in dataTypesInfo)
