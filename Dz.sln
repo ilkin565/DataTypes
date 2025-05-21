@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cursor", "Cursor\Cursor.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{0419DAA7-68D7-47F7-A18D-75650D64C7BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhombus", "Rhombus\Rhombus.csproj", "{7455923B-B2B3-4C4E-A848-C8D1B0201BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chessboard", "Chessboard\Chessboard.csproj", "{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0419DAA7-68D7-47F7-A18D-75650D64C7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0419DAA7-68D7-47F7-A18D-75650D64C7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0419DAA7-68D7-47F7-A18D-75650D64C7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7455923B-B2B3-4C4E-A848-C8D1B0201BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7455923B-B2B3-4C4E-A848-C8D1B0201BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7455923B-B2B3-4C4E-A848-C8D1B0201BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7455923B-B2B3-4C4E-A848-C8D1B0201BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
