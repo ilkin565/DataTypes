@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhombus", "Rhombus\Rhombus.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chessboard", "Chessboard\Chessboard.csproj", "{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy", "Academy\Academy.csproj", "{729A3DC3-6C50-4212-847D-87F3E6FABF4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupFromFile", "GroupFromFile\GroupFromFile.csproj", "{12B2DA49-C98A-4FB5-9169-3CB75036C87A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{817CD74E-2E64-4B5A-B27E-EF012A6F4BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729A3DC3-6C50-4212-847D-87F3E6FABF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729A3DC3-6C50-4212-847D-87F3E6FABF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729A3DC3-6C50-4212-847D-87F3E6FABF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729A3DC3-6C50-4212-847D-87F3E6FABF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B2DA49-C98A-4FB5-9169-3CB75036C87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B2DA49-C98A-4FB5-9169-3CB75036C87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B2DA49-C98A-4FB5-9169-3CB75036C87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B2DA49-C98A-4FB5-9169-3CB75036C87A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
